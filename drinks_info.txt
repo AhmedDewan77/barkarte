@@ -1,0 +1,75 @@
+Drink Name: Aperol Spritz
+Main Picture: juices.jpg
+Ingredients: cocktails.jpg, cocktails.jpg, cocktails.jpg, cocktails.jpg
+Steps:
+1. Add ice to a glass.
+2. Squeeze lemon over the ice.
+3. Add berries on top.
+4. Stir gently and serve.
+Product Picture: juices.jpg
+
+Drink Name: Deja-Vu Tonic
+Main Picture: juices.jpg
+Ingredients: mint.jpg, lime.jpg, sugar.jpg, rum.jpg, soda.jpg
+Steps:
+1. Muddle mint leaves and lime wedges with sugar in a glass.
+2. Fill the glass with ice cubes.
+3. Pour rum over the ice.
+4. Top up with soda water.
+5. Stir well and garnish with mint leaves.
+Product Picture: juices.jpg
+
+Drink Name: Hugo
+Main Picture: juices.jpg
+Ingredients: gin.jpg, vermouth.jpg, olive.jpg
+Steps:
+1. Fill a mixing glass with ice cubes.
+2. Pour gin and vermouth into the glass.
+3. Stir well until chilled.
+4. Strain the mixture into a martini glass.
+5. Garnish with an olive and serve.
+Product Picture: juices.jpg
+
+Drink Name: Lillet Wild Berry
+Main Picture: juices.jpg
+Ingredients: tequila.jpg, lime.jpg, triple_sec.jpg, salt.jpg
+Steps:
+1. Rub the rim of a glass with lime and dip it in salt to coat.
+2. Fill the glass with ice cubes.
+3. Pour tequila and triple sec over the ice.
+4. Squeeze lime juice into the glass.
+5. Stir well and serve.
+Product Picture: juices.jpg
+
+Drink Name: Lillet Rose White Peach
+Main Picture: juices.jpg
+Ingredients: mint.jpg, lime.jpg, sugar.jpg, rum.jpg, soda.jpg
+Steps:
+1. Muddle mint leaves and lime wedges with sugar in a glass.
+2. Fill the glass with ice cubes.
+3. Pour rum over the ice.
+4. Top up with soda water.
+5. Stir well and garnish with mint leaves.
+Product Picture: juices.jpg
+
+Drink Name: Limoncello Spritz
+Main Picture: juices.jpg
+Ingredients: gin.jpg, vermouth.jpg, olive.jpg
+Steps:
+1. Fill a mixing glass with ice cubes.
+2. Pour gin and vermouth into the glass.
+3. Stir well until chilled.
+4. Strain the mixture into a martini glass.
+5. Garnish with an olive and serve.
+Product Picture: juices.jpg
+
+Drink Name: Mango Spritz
+Main Picture: juices.jpg
+Ingredients: cocktails.jpg, cocktails.jpg, cocktails.jpg, cocktails.jpg
+Steps:
+1. Rub the rim of a glass with lime and dip it in salt to coat.
+2. Fill the glass with ice cubes.
+3. Pour tequila and triple sec over the ice.
+4. Squeeze lime juice into the glass.
+5. Stir well and serve.
+Product Picture: juices.jpg
